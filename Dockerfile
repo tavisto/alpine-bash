@@ -1,4 +1,4 @@
-FROM alpine:3.3
+FROM alpine:3.4
 
 MAINTAINER Tavis Aitken <tavisto@tavisto.net>
 
